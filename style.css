@@ -82,6 +82,9 @@ img{
     font-size: large;
     margin-left: 2rem;
 }
+.nav-2-2st ul li a {
+    color:#6874ce;
+}
 .nav-2-2st ul {
     display: flex;
     list-style: none;
