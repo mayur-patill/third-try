@@ -19,6 +19,7 @@ nav{
      margin-top: -.5rem; 
     /* margin-left: -.5rem;  */
     overflow: hidden;
+     position:fixed;
     
 }
 
