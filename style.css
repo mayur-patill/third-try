@@ -19,14 +19,13 @@ nav{
      margin-top: -.5rem; 
     /* margin-left: -.5rem;  */
     overflow: hidden;
-     position:fixed;
     
 }
 
 nav p{
     color: #fff;
     font-size: large;
-    position:fixed;
+    
 }
 #nav-span{
     font-size: large;
@@ -63,7 +62,7 @@ img{
     justify-content: space-around;
     align-items: center;
     box-shadow: 0 5px 5px  #efefef;
-    position: fixed;
+
     top: 4rem;
     background:#fff ;
     margin-top: -.5rem;
