@@ -25,7 +25,7 @@ nav{
 nav p{
     color: #fff;
     font-size: large;
-   /* position:fixed; */
+    position:fixed;
 }
 #nav-span{
     font-size: large;
